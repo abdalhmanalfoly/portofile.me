@@ -1,0 +1,76 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/jss.png"
+  },
+  {
+    "title": "bootstrap",
+    "imageSrc": "skills/bot.png"
+  },
+  {
+    "title": "tailwind",
+    "imageSrc": "skills/tall.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "TypeScript",
+    "imageSrc": "skills/ts.png"
+  },
+  {
+    "title": "NextJs",
+    "imageSrc": "skills/next.png"
+  },
+  {
+    "title": "Redux",
+    "imageSrc": "skills/redux.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "NodeJs",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "expressJs",
+    "imageSrc": "skills/ex.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sqll.webp"
+  },
+  {
+    "title": "NPM",
+    "imageSrc": "skills/npm.png"
+  },
+  {
+    "title": "Json",
+    "imageSrc": "skills/json.png"
+  }
+  ,  {
+    "title": "Clerk auth",
+    "imageSrc": "skills/clerk.png"
+  },  {
+    "title": "Stripe pay",
+    "imageSrc": "skills/Stripe.png"
+  },  {
+    "title": "Strapi cms ",
+    "imageSrc": "skills/strapi.webp"
+  }
+]

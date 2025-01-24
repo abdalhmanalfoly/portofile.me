@@ -1,0 +1,18 @@
+[
+  {
+    "role": "web developer",
+    "organisation": "Nova",
+    "startDate": "Aug, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on education platform", "Create a frontend "],
+    "imageSrc": "skills/nova.webp"
+  },
+  {
+    "role": "Mern stack",
+    "organisation": "As Freelance",
+    "startDate": "Aug, 2024",
+    "endDate": "Since now ",
+    "experiences": ["Worked on full projects", " frontend and backend"],
+    "imageSrc": "skills/upw.png"
+  }
+]

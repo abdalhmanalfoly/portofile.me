@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Fullstack Ecommerce ",
+    "imageSrc": "projects/ecom.jpeg",
+    "description": "nextjs react componnent stripa stripe clerk rest api",
+    "skills": ["nextjs", "react","stripa","clerk"],
+    "demo": "https://www.linkedin.com/posts/abdalrhman-foly-318722268_ecommerce-frontend-react-activity-7287757320627863552-rALl?utm_source=share&utm_medium=member_android",
+    "source": "https://github.com/abdalhmanalfoly/ecommerce"
+  },
+  {
+    "title": "Nasa space project",
+    "imageSrc": "projects/nasa.jpg",
+    "description": "This is a project made to nasa comptation.",
+    "skills": ["javaScript", "threejs", "3djs","gui.dut"],
+    "demo": "https://abdalhmanalfoly.github.io/orreryapp/",
+    "source": "https://github.com/abdalhmanalfoly/orreryapp"
+  },
+  {
+    "title": "curd app",
+    "imageSrc": "projects/crud.jpeg",
+    "description": "This is a project made to mange products.",
+    "skills": ["React", "bootstrap", "json server"],
+    "demo": "https://www.youtube.com/watch?v=fZ-txpHU0P4",
+    "source": "https://github.com/abdalhmanalfoly/crud-app"
+  },
+  {
+    "title": "tailwind langing page",
+    "imageSrc": "projects/templet.jpeg",
+    "description": "This is a project made totailwind langing page",
+    "skills": ["React", "tailwind", "ui M"],
+    "demo": "https://psychotic-hall.surge.sh/",
+    "source": "https://github.com/abdalhmanalfoly/react-tiallwind-templet-"
+  },
+  {
+    "title": "foodshop langing page",
+    "imageSrc": "projects/food.jpeg",
+    "description": "This is a project made foodshop langing page",
+    "skills": ["bootstrap", "css", "ui M"],
+    "demo": "https://abdalrhmanfolly.github.io/foodShop/",
+    "source": "https://github.com/abdalrhmanfolly/foodShop"
+  },
+  {
+    "title": "bootstrap langing page",
+    "imageSrc": "projects/boot.jpeg",
+    "description": "This is a project made bootstrap langing page",
+    "skills": ["bootstrap", "css", "ui M"],
+    "demo": "https://abdalrhmanfolly.github.io/bootstrap_project_1/",
+    "source": "https://github.com/abdalrhmanfolly/bootstrap_project_1"
+  },
+  {
+    "title": "cli tools",
+    "imageSrc": "projects/npm.jpeg",
+    "description": "This is a project made to create data object in filesystem ",
+    "skills": ["React", "Nodejs"],
+    "demo": "https://www.npmjs.com/package/objectmaneger",
+    "source": "https://github.com/abdalhmanalfoly/cli-tool"
+  }
+]
