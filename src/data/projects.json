@@ -1,5 +1,5 @@
 [
-  {
+    {
     "title": "Fullstack Ecommerce ",
     "imageSrc": "projects/ecom.jpeg",
     "description": "nextjs react componnent stripa stripe clerk rest api",
@@ -8,6 +8,38 @@
     "source": "https://github.com/abdalhmanalfoly/ecommerce"
   },
   {
+    "title": "Full-Stack Authentication System – MERN Stack ",
+    "imageSrc": "projects/Untitled design.png",
+    "description": "full stack project with mern",
+    "skills": ["nodejs", "react","ExpressJs","restapi","zuatnd"],
+    "demo": "https://www.linkedin.com/posts/abdalrhman-foly-318722268_react-nodejs-mern-activity-7344763747246260224-vUsq?utm_source=share&utm_medium=member_android&rcm=ACoAAEGaRUQBWr980W2KJJyr6mjbUbKjFtQIXII",
+    "source": "https://github.com/abdalhmanalfoly/full-mern-stack-auth-sys"
+  },
+  {
+    "title": "Calendra – Full-Stack Scheduling Application ",
+    "imageSrc": "projects/events.jpeg",
+    "description": "full stack sceduling app ",
+    "skills": [ "Typescript", "postgresql","nextjs"],
+    "demo": "https://calendra-one.vercel.app/",
+    "source": " https://github.com/abdalhmanalfoly/calendra-application-"
+  },
+  {
+    "title": "Real-Time Chat App – WebSockets & MongoDB",
+    "imageSrc": "projects/chatapp.jfif",
+    "description": "This is a project made to be chat server .",
+    "skills": [ "WebSockets", "MongoDB"],
+    "demo": "https://yearling-delores-abdalrhmangroup-bb8cfd33.koyeb.app/",
+    "source": "https://github.com/abdalhmanalfoly/websocketsChat"
+  },
+    {
+    "title": "Redux Toolkit Cart Application – React.js",
+    "imageSrc": "projects/stateM.jpeg",
+    "description": "state mangment project .",
+    "skills": [ "reactjs", "redux toolkit"],
+    "demo": "https://yearling-delores-abdalrhmangroup-bb8cfd33.koyeb.app/",
+    "source": "https://github.com/abdalhmanalfoly/redux-toolkite-cart-application"
+  },
+    {
     "title": "Nasa space project",
     "imageSrc": "projects/nasa.jpg",
     "description": "This is a project made to nasa comptation.",

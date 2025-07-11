@@ -9,10 +9,10 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Abdalrhman</h1>
         <p className={styles.description}>
-          I'm a Frontend developer with 1 years of experience using React and
+          I'm a Full Stack developer with 1 years of experience using React and
           NodeJS . Reach out if you'd like to learn more!
         </p>
-        <a href="assets/hero/cv.pdf"  download className={styles.contactBtn}>
+        <a href="https://drive.google.com/file/d/1e-IO7SupcsfLeLwNjT0pxWaVmbfkfG_3/view?usp=sharing"  download className={styles.contactBtn}>
          Download CV
         </a>
       

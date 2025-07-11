@@ -52,7 +52,7 @@
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "SQL",
+    "title": "MySQL",
     "imageSrc": "skills/sqll.webp"
   },
   {
@@ -72,5 +72,9 @@
   },  {
     "title": "Strapi cms ",
     "imageSrc": "skills/strapi.webp"
+  },
+  {
+    "title": "drizzle ",
+    "imageSrc": "skills/drizzel.png"
   }
 ]
