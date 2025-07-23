@@ -12,7 +12,7 @@ export const Hero = () => {
           I'm a Full Stack developer with 1 years of experience using React and
           NodeJS . Reach out if you'd like to learn more!
         </p>
-        <a href="https://drive.google.com/file/d/1tnGdii8mqQ0j05E-TDTgxhwtoaZvAn9D/view?usp=sharing"  download className={styles.contactBtn}>
+        <a href="https://drive.google.com/file/d/1uYqvQY2obKsLzDZoF9h3r1yiuH0_Hw-l/view"  download className={styles.contactBtn}>
          Download CV
         </a>
       
